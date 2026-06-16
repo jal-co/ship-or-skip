@@ -13,12 +13,12 @@ Goal: a name that's memorable, sayable, spellable, legally safe-ish, and **actua
    - *Playful / short verbs*: `Vet`, `Forge`
 3. **Filter** for: easy to say out loud, easy to spell after hearing it, no awkward acronym, no obvious negative meaning in major languages, not easily confused with a big existing brand.
 4. **Check availability** (see below).
-5. **Trademark sanity check** (best-effort): search the name + category; flag if a well-known company in an adjacent space already uses it. Recommend the user do a proper USPTO/registry search before committing — say this explicitly; you are not giving legal advice.
+5. **Trademark sanity check** (best-effort): the agent SHOULD search the name + category and MUST flag if a well-known company in an adjacent space already uses it. The agent MUST recommend a proper USPTO/registry search before committing and MUST state it is not giving legal advice.
 6. **Recommend one** with a one-line rationale, and a backup.
 
 ## Checking domain availability
 
-**Search first** — but DNS/whois is more reliable than search snippets for "is it registered."
+The agent MUST search first — but DNS/whois is more reliable than search snippets for "is it registered," so the agent SHOULD prefer the helper below when tools are present.
 
 Best-effort helper:
 ```bash

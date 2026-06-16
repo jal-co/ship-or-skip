@@ -1,8 +1,8 @@
 # Scorecard rubric
 
-Eight axes, scored **1–5** (5 = best). Every score requires a one-line reason grounded in research or the user's answers — never a bare number. Be realistic: anchor to evidence, and say when you're guessing.
+Eight axes, scored **1–5** (5 = best). Every score MUST carry a one-line reason grounded in research or the user's answers — never a bare number. The agent MUST anchor to evidence and MUST say when it is guessing.
 
-> The scorecard is an instrument, not a verdict machine. After scoring, step back and make a **holistic** call (SHIP / SHAPE / SKIP). Explain any time you overrule the composite.
+> The scorecard is an instrument, not a verdict machine. After scoring, the agent MUST step back and make a **holistic** call (SHIP / SHAPE / SKIP), and MUST explain any time it overrules the composite.
 
 ---
 
@@ -104,4 +104,4 @@ To move to SHIP: prove one repeatable channel to reach [buyer] for under $X CAC.
 Biggest risk: an entrenched free incumbent ([name]) already owns the workflow.
 ```
 
-Always end with: the **one biggest reason** for the verdict, the **biggest risk**, and — for SHAPE/SKIP — **what would change your mind**.
+The agent MUST always end with: the **one biggest reason** for the verdict, the **biggest risk**, and — for SHAPE/SKIP — **what would change its mind**.

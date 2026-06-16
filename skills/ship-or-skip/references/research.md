@@ -2,10 +2,14 @@
 
 The point of this skill is **realistic** answers. That means doing actual research, not vibes. **Search first; reason only as a fallback.**
 
+<rules>
+
 ## Rule of thumb
-- If the host agent has web search/fetch tools → **use them** for every real-world claim below.
-- If it does not → answer from training knowledge, but prefix each such claim with `⚠️ unverified (from training knowledge — verify this)` and tell the user what to check.
-- **Always** include source links for anything you searched.
+- If the host agent has web search/fetch tools, the agent MUST use them for every real-world claim below.
+- If it does not, the agent MUST answer from training knowledge but MUST prefix each such claim with `⚠️ unverified (from training knowledge — verify this)` and tell the user what to check.
+- The agent MUST include source links for anything it searched.
+
+</rules>
 
 ## What to research
 
@@ -42,7 +46,11 @@ You usually can't get a clean TAM — use **proxies**:
 ### Domain & naming availability
 Covered in `naming.md`. Search first; the `scripts/check-domain.sh` helper is a best-effort check.
 
+<rules>
+
 ## Honesty discipline
-- Distinguish **found** (with a link) from **inferred** (your reasoning) from **unknown** (say it).
-- Don't inflate a market to be encouraging. Don't dismiss one you didn't actually look into.
-- If the evidence is thin, the right answer is often "validate this cheaply before building" — name the specific test (a landing page, 5 customer interviews, a Reddit post gauging interest).
+- The agent MUST distinguish **found** (with a link) from **inferred** (its reasoning) from **unknown** (say it).
+- The agent MUST NOT inflate a market to be encouraging, and MUST NOT dismiss one it did not actually look into.
+- If the evidence is thin, the agent SHOULD recommend cheap validation before building and MUST name a specific test (a landing page, 5 customer interviews, a Reddit post gauging interest).
+
+</rules>
