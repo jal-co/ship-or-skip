@@ -1,12 +1,10 @@
 # ship-or-skip
 
 [![installs](https://shieldcn.dev/skills/installs/jal-co/ship-or-skip/ship-or-skip.svg?variant=branded)](https://www.skills.sh/jal-co/ship-or-skip/ship-or-skip)
-[![rank](https://shieldcn.dev/skills/rank/jal-co/ship-or-skip/ship-or-skip.svg?variant=secondary)](https://www.skills.sh/jal-co/ship-or-skip/ship-or-skip)
-[![trending](https://shieldcn.dev/skills/trending/jal-co/ship-or-skip/ship-or-skip.svg?variant=outline)](https://www.skills.sh/trending)
 [![Agent Skill](https://shieldcn.dev/badge/agent-skill-spec-000000.svg?variant=branded)](https://agentskills.io)
 [![license](https://shieldcn.dev/badge/license-MIT-22c55e.svg)](LICENSE)
 
-> Badges by [shieldcn.dev](https://shieldcn.dev). Install/rank/trending populate once skills.sh indexes the skill (after its first `npx skills add`).
+> Badges by [shieldcn.dev](https://shieldcn.dev). The install count populates after skills.sh indexes the skill (first `npx skills add`). Rank/trending badges can be added once the skill is actively ranking.
 
 A realistic **co-founder critic** for software and product ideas, packaged as an [Agent Skill](https://agentskills.io). You bring an idea; it helps you decide **Ship**, **Shape**, or **Skip** — backed by a numbered scorecard, real (search-first) research, naming + domain checks, and a saved report you build on over time.
 
