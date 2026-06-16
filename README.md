@@ -6,9 +6,13 @@
 
 > Badges by [shieldcn.dev](https://shieldcn.dev). The install count populates after skills.sh indexes the skill (first `npx skills add`). Rank/trending badges can be added once the skill is actively ranking.
 
-A collection of [Agent Skills](https://agentskills.io) for **deciding what to build** — a realistic co-founder critic that helps you triage ideas, find competitors, sharpen positioning, and name products.
+A realistic co-founder critic for software ideas, packaged as [Agent Skills](https://agentskills.io). You bring an idea, it tells you whether to ship it, shape it, or skip it.
 
-Built for the founder problem of *too many ideas, not enough signal*: it tells you, honestly, when the competition is too large, the niche too small, or there's no path to revenue — and helps sharpen the ones worth pursuing.
+I have a lot of ideas. What I don't have is the headspace to figure out which ones are worth chasing.
+
+The hard part of building isn't building anymore. Models got good enough that execution is mostly handled, so the bottleneck moved. Now it's finding an idea that hasn't already shipped, in a niche big enough to matter, that someone will actually pay for.
+
+This is the gut-check I wanted. You bring an idea, it does the research instead of guessing, and it tells you honestly where the competition is too big, the niche too small, or there's no path to revenue. When tokens are the only currency, your ideas matter.
 
 ## Skills
 
