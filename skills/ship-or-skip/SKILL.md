@@ -5,7 +5,8 @@ license: MIT
 compatibility: Works in any Agent Skills client. Strongly benefits from a host agent with live web search/fetch tools for current competitor, pricing, market, and domain data. Optional domain script uses whois/dig if installed.
 metadata:
   author: jal-co
-  version: "1.0"
+  version: "1.0.0"
+  argument-hint: <idea one-liner> [triage|critique|competitors|position|name]
 ---
 
 # ship-or-skip
