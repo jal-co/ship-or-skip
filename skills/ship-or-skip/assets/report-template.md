@@ -1,9 +1,9 @@
-# ship-or-skip — <Idea name>
+# <Idea name>
 
 > One-liner: <what it is, who it's for, the job it does>
 > Slug: `<idea-slug>` · Started: <YYYY-MM-DD>
 
-This report accumulates across modules. Each run appends a dated section below.
+This document accumulates across modules from `ship-or-skip` (should I build it?) and `stack-up` (what to build it with?). Each run appends a dated section below.
 
 ---
 
@@ -38,5 +38,8 @@ This report accumulates across modules. Each run appends a dated section below.
 ## Critique — <YYYY-MM-DD>
 ## Positioning — <YYYY-MM-DD>
 ## Naming — <YYYY-MM-DD>
+## Stack Recommendation — <YYYY-MM-DD>
+## Stack Comparison — <YYYY-MM-DD>
+## Stack Audit — <YYYY-MM-DD>
 
 -->

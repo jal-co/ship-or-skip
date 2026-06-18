@@ -112,7 +112,7 @@ The agent MUST present scores as a markdown table, then a composite (simple aver
 
 ## Saving reports
 
-The agent MUST write to `ship-or-skip-reports/<idea-slug>.md` in the user's current working directory, creating the folder if needed. For a new idea it MUST use [assets/report-template.md](assets/report-template.md). If the file already exists, the agent MUST **append** the new module's section under a dated `## <Module> — YYYY-MM-DD` heading rather than overwriting. After saving, it MUST tell the user the path.
+The agent MUST write to `docs/<idea-slug>.md` in the user's current working directory, creating the `docs/` folder if needed. This is the same path the companion `stack-up` skill uses, so one idea accumulates its validation **and** its stack in a single document. For a new idea it MUST use [assets/report-template.md](assets/report-template.md). If the file already exists, the agent MUST **append** the new module's section under a dated `## <Module> — YYYY-MM-DD` heading rather than overwriting. After saving, it MUST tell the user the path.
 
 </rules>
 

@@ -8,6 +8,13 @@
       "skills": [
         "ship-or-skip"
       ]
+    },
+    {
+      "title": "Build Decisions",
+      "description": "Skills for deciding how to build it — choosing the tech stack, comparing frameworks and infrastructure, and auditing an existing stack for legacy or risky choices.",
+      "skills": [
+        "stack-up"
+      ]
     }
   ]
 }

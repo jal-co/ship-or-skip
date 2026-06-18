@@ -76,7 +76,7 @@ Add the skill slug to a grouping in `skills.sh.json` so it appears correctly on 
 Document skills.sh installation for public skills:
 
 ```bash
-npx skills add jal-co/ship-or-skip --skill {skill-name}
+npx skills add jal-co/skills --skill {skill-name}
 ```
 
 **Manual (Claude Code):**
